@@ -25,4 +25,5 @@ replay_pid*
 
 # MacOS specific files
 .DS_Store
- 
+ .DS_Store
+**/.DS_Store
